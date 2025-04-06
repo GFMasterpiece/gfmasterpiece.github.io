@@ -107,7 +107,7 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: true
+comments: 
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: giscus
   # The provider options are as follows:
@@ -124,9 +124,9 @@ comments: true
     category: "Announcements"
     category_id: "DIC_kwDOOPubic4Co1ZB"
     mapping: "pathname"
-    strict: 0
+    strict: 
     input_position: "top"
-    lang: "zh-CN"
+    lang:
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
