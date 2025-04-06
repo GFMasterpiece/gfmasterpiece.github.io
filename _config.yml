@@ -119,14 +119,14 @@ comments: true
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: GFMasterpiece/gfmasterpiece.github.io
-    repo_id: R_kgDOOPubiQ
-    category: Announcements
-    category_id: DIC_kwDOOPubic4Co1ZB
-    mapping: pathname
+    repo: "GFMasterpiece/gfmasterpiece.github.io"
+    repo_id: "R_kgDOOPubiQ"
+    category: "Announcements"
+    category_id: "DIC_kwDOOPubic4Co1ZB"
+    mapping: "pathname"
     strict: 0
-    input_position: top
-    lang: zh-CN
+    input_position: "top"
+    lang: "zh-CN"
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
