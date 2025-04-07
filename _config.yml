@@ -119,13 +119,13 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "GFMasterpiece/gfmasterpiece.github.io"
-    repo_id: "R_kgDOOPubiQ"
-    category: "Announcements"
-    category_id: "DIC_kwDOOPubic4Co1ZB"
-    mapping: "pathname"
+    repo: GFMasterpiece/gfmasterpiece.github.io
+    repo_id: R_kgDOOPubiQ
+    category: Announcements
+    category_id: DIC_kwDOOPubic4Co1ZB
+    mapping: pathname
     strict: 
-    input_position: "top"
+    input_position: top
     lang:
     reactions_enabled: # optional, default to the value of `1`
 
